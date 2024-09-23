@@ -1,6 +1,6 @@
 # Hi! 这里是 Kuroba Kaito 🌍
 
-目前是一名 [同济大学](https://celiang.tongji.edu.cn/) 的在读研究生，专注于卫星测高（Satellite Altimetry）的研究。
+目前是一名 [同济大学](https://celiang.tongji.edu.cn/) 的在读研究生，专注于卫星测高向（Satellite Altimetry）的研究。
 在这个博客中，我会逐步分享我在读研期间做的一些项目，包括代码和分析结果。希望未来的某一天回看这些博客时，能够回忆起当时一些在研究中的 idea 和 struggle ，也算时为我的硕士生活留下点小小的痕迹😄。
 
 ## 🔭 我的研究方向
